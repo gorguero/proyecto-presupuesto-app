@@ -1,5 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import { format } from 'path';
 import { Egreso } from '../egreso/egreso.model';
 import { EgresoServicio } from '../egreso/egreso.service';
 import { Ingreso } from '../ingreso/ingreso.model';
